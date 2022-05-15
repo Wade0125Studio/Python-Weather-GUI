@@ -16,6 +16,10 @@
 ###  Here's the demo:
 
 <div align="center">
-<img src="https://github.com/wade0125/Ocular-Disease-Recognition-Transfer-Learning/blob/main/img/inceptionResNetV2%20predict%20confusion%20matrix.png">
+<img src="https://github.com/wade0125/Python-Weather-GUI/blob/main/demo0.PNG">
+</div>
+
+<div align="center">
+<img src="https://github.com/wade0125/Python-Weather-GUI/blob/main/demo1.PNG">
 </div>
 
